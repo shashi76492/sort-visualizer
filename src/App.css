@@ -1,0 +1,48 @@
+.arrayElements {
+    font-size: x-large;
+    color: black;
+    margin: 1px;
+    background-color: #98E4FF;
+    width: 50px;
+    transition: height 0.5s ease, background-color 0.3s ease-in-out;
+}
+
+.display {
+    display: flex;
+    align-items: end;
+    flex-direction: row;
+    height: 300px;
+    position: sticky;
+}
+
+Button {
+    margin: 3px;
+}
+
+#comparing {
+    background-color: #ea9d55;
+}
+
+#wrong {
+    background-color: rgb(13, 32, 173);
+}
+
+.sorted {
+    background-color: #41B06E;
+}
+
+.search {
+    background-color: #1827fc;
+}
+
+.choosen {
+    background-color: #416ed0;
+}
+
+.minIdx {
+    background-color: #FBA834;
+}
+
+.swapped {
+    background-color: #16ab8d;
+}
